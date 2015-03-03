@@ -201,7 +201,7 @@
                                                                     u'fmt': u'str',
                                                                     u'label': u'Stage'}],
                                               u'reports_export_all': True}}},
-  u'receivers': { u'dataset_changes': [u'harshitha.grandhi@aviso2.com']},
+  u'receivers': { u'dataset_changes': [u'harshitha.grandhi@aviso3.com']},
   u'timezoneoffset': -480,
   u'ui': { u'production_models': { u'OppDS': [ u'bookings',
                                                u'exsistingpipeforecast']}}}
